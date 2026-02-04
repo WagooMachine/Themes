@@ -1,6 +1,6 @@
 {
   "name": "Sõmnum",
-  "description": "Zzzzzzzzzz.",
+  "description": "Zzzzzzzzzz",
   "version": "13",
   "authors": [
     {
@@ -1011,8 +1011,8 @@
       "#00000014"
     ],
     "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
-      "#1a0f1a",
-      "#FFFFFF"
+      "#e692c426",
+      "#D3869B33"
     ],
     "REDESIGN_INPUT_CONTROL_SELECTED": [
       "#e692c4",
