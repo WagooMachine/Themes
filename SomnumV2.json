@@ -373,6 +373,7 @@
   },
   "plus": {
     "version": "0",
+    "iconpack": "rosiecord-plumpy"
     "customOverlays": true,
     "icons": {
       "ic_mic_neutral": "#b6a2ce",
@@ -382,6 +383,5 @@
       "ic_video": "#b6a2ce",
       "ic_video_disabled": "#6e3b4f"
     },
-    "iconpack": "rosiecord-plumpy"
   }
 }
