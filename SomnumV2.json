@@ -372,10 +372,24 @@
     "BLACK_900": "#0c0910"
   },
   "plus": {
-    "version": "0",
-    "iconpack": "rosiecord-plumpy"
+    "version": 0,
+    "iconPack": "rosiecord-plumpy",
+    "mentionLineColor": "#b37670",
     "customOverlays": true,
     "icons": {
+      "trash": "#b37670",
+      "TrashIcon": "#b37670",
+      "TriangleExclamationPointIcon": "#b37670",
+      "toast_copy_link": "#b6a2ce",
+      "toast_copy_message": "#ece7f2",
+      "toast_image_saved": "#ece7f2",
+      "ic_new_pins": "#b37670",
+      "StatusStreaming": "#c492a6",
+      "StatusMobileOnline": "#b6a2ce",
+      "StatusIdle": "#c492a6",
+      "StatusDND": "#b37670",
+      "StatusOffline": "#6e3b4f",
+      "StatusOnline": "#b6a2ce",
       "ic_mic_neutral": "#b6a2ce",
       "ic_mic_muted_neutral": "#6e3b4f",
       "ic_soundboard": "#b6a2ce",
