@@ -1,6 +1,6 @@
 {
   "name": "SõmnumV2",
-  "description": "Zzzzzzzzzzzzzzzz",
+  "description": "Zzzzzzzzz",
   "version": "1.0",
   "authors": [
     {
@@ -107,20 +107,20 @@
   },
   
   "rawColors": {
-    "PRIMARY_100": "#ece7f2",
-    "PRIMARY_130": "#ece7f2",
-    "PRIMARY_200": "#d9d1e5",
-    "PRIMARY_230": "#d9d1e5",
-    "PRIMARY_300": "#c9bfd4",
-    "PRIMARY_330": "#c9bfd4",
-    "PRIMARY_345": "#bfb3ca",
-    "PRIMARY_360": "#b6a2ce",
-    "PRIMARY_400": "#b6a2ce",
-    "PRIMARY_430": "#a08fbe",
-    "PRIMARY_460": "#8c7a9f",
-    "PRIMARY_500": "#7d6b8f",
-    "PRIMARY_530": "#6e5b7f",
-    "PRIMARY_560": "#6e3b4f",
+    "PRIMARY_100": ["#ece7f2", "#110c17"],
+    "PRIMARY_130": ["#ece7f2", "#110c17"],
+    "PRIMARY_200": ["#d9d1e5", "#2b2033"],
+    "PRIMARY_230": ["#d9d1e5", "#2b2033"],
+    "PRIMARY_300": ["#c9bfd4", "#45315e"],
+    "PRIMARY_330": ["#c9bfd4", "#45315e"],
+    "PRIMARY_345": ["#bfb3ca", "#503a6a"],
+    "PRIMARY_360": ["#b6a2ce", "#5a3d73"],
+    "PRIMARY_400": ["#b6a2ce", "#5a3d73"],
+    "PRIMARY_430": ["#a08fbe", "#6a4d85"],
+    "PRIMARY_460": ["#8c7a9f", "#7a5a94"],
+    "PRIMARY_500": ["#7d6b8f", "#8567a0"],
+    "PRIMARY_530": ["#6e5b7f", "#9680ac"],
+    "PRIMARY_560": ["#6e3b4f", "#c492a6"],
     "PRIMARY_600": ["#0c0910", "#f2eff6"],
     "PRIMARY_630": ["#151119", "#e8e3ee"],
     "PRIMARY_645": ["#1a141f", "#ddd6e6"],
@@ -132,8 +132,8 @@
     "PRIMARY_860": ["#0c0910", "#f2eff6"],
     "PRIMARY_900": ["#0c0910", "#f2eff6"],
     
-    "BRAND_260": "#d4c4e0",
-    "BRAND_360": "#b6a2ce",
+    "BRAND_260": ["#d4c4e0", "#8b73a8"],
+    "BRAND_360": ["#b6a2ce", "#6a4d85"],
     "BRAND_500": ["#b6a2ce", "#45315e"],
     "BRAND_560": ["#9b84b8", "#5a3d73"],
     
