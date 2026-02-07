@@ -11,322 +11,85 @@
   "theme": "dark",
   "spec": 2,
   "semanticColors": {
-    "HEADER_PRIMARY": [
-      "#ece7f2",
-      "#110c17"
-    ],
-    "HEADER_SECONDARY": [
-      "#c9bfd4",
-      "#45315e"
-    ],
-    "TEXT_NORMAL": [
-      "#ece7f2",
-      "#110c17"
-    ],
-    "TEXT_MUTED": [
-      "#b6a2ce",
-      "#45315e"
-    ],
-    "TEXT_DANGER": [
-      "#e06c75",
-      "#d64545"
-    ],
-    "TEXT_LINK": [
-      "#b6a2ce",
-      "#45315e"
-    ],
-    "TEXT_POSITIVE": [
-      "#98c379",
-      "#5a8f5f"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "#c9bfd4",
-      "#6a5580"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#ece7f2",
-      "#110c17"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#b6a2ce",
-      "#45315e"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#7d6b8f",
-      "#b8a3c9"
-    ],
-    "BACKGROUND_PRIMARY": [
-      "#0c0910",
-      "#f2eff6"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "#151119",
-      "#e8e3ee"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#1a141f",
-      "#ddd6e6"
-    ],
-    "BACKGROUND_TERTIARY": [
-      "#0c0910",
-      "#f2eff6"
-    ],
-    "BACKGROUND_ACCENT": [
-      "#b6a2ce",
-      "#45315e"
-    ],
-    "BACKGROUND_FLOATING": [
-      "#151119",
-      "#e8e3ee"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#0c0910",
-      "#f2eff6"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#151119",
-      "#e8e3ee"
-    ],
-    "BACKGROUND_NESTED_FLOATING": [
-      "#1a141f",
-      "#ddd6e6"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "#b6a2ce33",
-      "#45315e33"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "#b6a2ce22",
-      "#45315e22"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#b6a2ce44",
-      "#45315e44"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "#b6a2ce11",
-      "#45315e11"
-    ],
-    "SCROLLBAR_THIN_THUMB": [
-      "#6e3b4f",
-      "#c492a6"
-    ],
-    "SCROLLBAR_THIN_TRACK": [
-      "transparent",
-      "transparent"
-    ],
-    "SCROLLBAR_AUTO_THUMB": [
-      "#6e3b4f",
-      "#c492a6"
-    ],
-    "SCROLLBAR_AUTO_TRACK": [
-      "#151119",
-      "#e8e3ee"
-    ],
-    "CHANNEL_ICON": [
-      "#b6a2ce",
-      "#45315e"
-    ],
-    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-      "#8c7a9f",
-      "#9680ac"
-    ],
-    "CHANNELTEXTAREA_BACKGROUND": [
-      "#151119",
-      "#e8e3ee"
-    ],
-    "CHANNELS_DEFAULT": [
-      "#c9bfd4",
-      "#6a5580"
-    ],
-    "CHAT_BACKGROUND": [
-      "#0c0910",
-      "#f2eff6"
-    ],
-    "DEPRECATED_CARD_BG": [
-      "#151119",
-      "#e8e3ee"
-    ],
-    "DEPRECATED_CARD_EDITABLE_BG": [
-      "#1a141f",
-      "#ddd6e6"
-    ],
-    "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
-      "#151119",
-      "#e8e3ee"
-    ],
-    "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
-      "#8c7a9f",
-      "#9680ac"
-    ],
-    "DEPRECATED_STORE_BG": [
-      "#0c0910",
-      "#f2eff6"
-    ],
-    "DEPRECATED_TEXT_INPUT_BG": [
-      "#151119",
-      "#e8e3ee"
-    ],
-    "DEPRECATED_TEXT_INPUT_BORDER": [
-      "#6e3b4f",
-      "#c492a6"
-    ],
-    "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
-      "#3a2838",
-      "#d4c1d9"
-    ],
-    "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
-      "#b6a2ce",
-      "#45315e"
-    ],
-    "DEPRECATED_TEXT_INPUT_PREFIX": [
-      "#b6a2ce",
-      "#45315e"
-    ],
-    "ELEVATION_HIGH": [
-      "#0c0910",
-      "#f2eff6"
-    ],
-    "ELEVATION_LOW": [
-      "#151119",
-      "#e8e3ee"
-    ],
-    "ELEVATION_MEDIUM": [
-      "#0c0910",
-      "#f2eff6"
-    ],
-    "ELEVATION_STROKE": [
-      "#6e3b4f22",
-      "#c492a622"
-    ],
-    "GUILD_HEADER_TEXT_SHADOW": [
-      "#0c0910",
-      "#f2eff6"
-    ],
-    "INFO_DANGER_BACKGROUND": [
-      "#6e3b4f",
-      "#e8b4ba"
-    ],
-    "INFO_DANGER_FOREGROUND": [
-      "#ece7f2",
-      "#110c17"
-    ],
-    "INFO_DANGER_TEXT": [
-      "#ece7f2",
-      "#110c17"
-    ],
-    "INFO_HELP_BACKGROUND": [
-      "#b6a2ce",
-      "#45315e"
-    ],
-    "INFO_HELP_FOREGROUND": [
-      "#0c0910",
-      "#f2eff6"
-    ],
-    "INFO_HELP_TEXT": [
-      "#0c0910",
-      "#f2eff6"
-    ],
-    "INFO_POSITIVE_BACKGROUND": [
-      "#5a8f5f",
-      "#c5e6c8"
-    ],
-    "INFO_POSITIVE_FOREGROUND": [
-      "#ece7f2",
-      "#110c17"
-    ],
-    "INFO_POSITIVE_TEXT": [
-      "#ece7f2",
-      "#110c17"
-    ],
-    "INFO_WARNING_BACKGROUND": [
-      "#b37670",
-      "#90514c"
-    ],
-    "INFO_WARNING_FOREGROUND": [
-      "#0c0910",
-      "#f2eff6"
-    ],
-    "INFO_WARNING_TEXT": [
-      "#0c0910",
-      "#f2eff6"
-    ],
-    "MENTION_BACKGROUND": [
-      "#b3767055",
-      "#90514c55"
-    ],
-    "MENTION_FOREGROUND": [
-      "#b37670",
-      "#90514c"
-    ],
-    "PANEL_BG": [
-      "#0c0910",
-      "#f2eff6"
-    ],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#151119",
-      "#e8e3ee"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#6e3b4f",
-      "#c492a6"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#6e3b4f",
-      "#c492a6"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_TEXT": [
-      "#ece7f2",
-      "#110c17"
-    ],
-    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#b6a2ce",
-      "#45315e"
-    ],
-    "REDESIGN_ONLY_BACKGROUND_DEFAULT": [
-      "#0c0910",
-      "#f2eff6"
-    ],
-    "REDESIGN_ONLY_BACKGROUND_OVERLAY": [
-      "#0c0910dd",
-      "#f2eff6dd"
-    ],
-    "STATUS_DANGER": [
-      "#e06c75",
-      "#d64545"
-    ],
-    "STATUS_DANGER_BACKGROUND": [
-      "#6e3b4f",
-      "#e8b4ba"
-    ],
-    "STATUS_DANGER_TEXT": [
-      "#ece7f2",
-      "#110c17"
-    ],
-    "STATUS_POSITIVE": [
-      "#98c379",
-      "#5a8f5f"
-    ],
-    "STATUS_POSITIVE_BACKGROUND": [
-      "#5a8f5f",
-      "#c5e6c8"
-    ],
-    "STATUS_POSITIVE_TEXT": [
-      "#ece7f2",
-      "#110c17"
-    ],
-    "STATUS_WARNING": [
-      "#b37670",
-      "#90514c"
-    ],
-    "STATUS_WARNING_TEXT": [
-      "#0c0910",
-      "#f2eff6"
-    ],
-    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-      "#0c0910dd",
-      "#f2eff6dd"
-    ]
+    "HEADER_PRIMARY": ["#ece7f2", "#110c17"],
+    "HEADER_SECONDARY": ["#c9bfd4", "#45315e"],
+    "TEXT_NORMAL": ["#ece7f2", "#110c17"],
+    "TEXT_MUTED": ["#b6a2ce", "#45315e"],
+    "TEXT_DANGER": ["#e06c75", "#d64545"],
+    "TEXT_LINK": ["#b6a2ce", "#45315e"],
+    "TEXT_POSITIVE": ["#98c379", "#5a8f5f"],
+    "INTERACTIVE_NORMAL": ["#c9bfd4", "#6a5580"],
+    "INTERACTIVE_HOVER": ["#ece7f2", "#110c17"],
+    "INTERACTIVE_ACTIVE": ["#b6a2ce", "#45315e"],
+    "INTERACTIVE_MUTED": ["#7d6b8f", "#b8a3c9"],
+    "BACKGROUND_PRIMARY": ["#0c0910", "#f2eff6"],
+    "BACKGROUND_SECONDARY": ["#151119", "#e8e3ee"],
+    "BACKGROUND_SECONDARY_ALT": ["#1a141f", "#ddd6e6"],
+    "BACKGROUND_TERTIARY": ["#0c0910", "#f2eff6"],
+    "BACKGROUND_ACCENT": ["#b6a2ce", "#45315e"],
+    "BACKGROUND_FLOATING": ["#151119", "#e8e3ee"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#0c0910", "#f2eff6"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#151119", "#e8e3ee"],
+    "BACKGROUND_NESTED_FLOATING": ["#1a141f", "#ddd6e6"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#b6a2ce33", "#45315e33"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#b6a2ce22", "#45315e22"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#b6a2ce44", "#45315e44"],
+    "BACKGROUND_MODIFIER_HOVER": ["#b6a2ce11", "#45315e11"],
+    "SCROLLBAR_THIN_THUMB": ["#6e3b4f", "#c492a6"],
+    "SCROLLBAR_THIN_TRACK": ["transparent", "transparent"],
+    "SCROLLBAR_AUTO_THUMB": ["#6e3b4f", "#c492a6"],
+    "SCROLLBAR_AUTO_TRACK": ["#151119", "#e8e3ee"],
+    "CHANNEL_ICON": ["#b6a2ce", "#45315e"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#8c7a9f", "#9680ac"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#151119", "#e8e3ee"],
+    "CHANNELS_DEFAULT": ["#c9bfd4", "#6a5580"],
+    "CHAT_BACKGROUND": ["#0c0910", "#f2eff6"],
+    "DEPRECATED_CARD_BG": ["#151119", "#e8e3ee"],
+    "DEPRECATED_CARD_EDITABLE_BG": ["#1a141f", "#ddd6e6"],
+    "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": ["#151119", "#e8e3ee"],
+    "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": ["#8c7a9f", "#9680ac"],
+    "DEPRECATED_STORE_BG": ["#0c0910", "#f2eff6"],
+    "DEPRECATED_TEXT_INPUT_BG": ["#151119", "#e8e3ee"],
+    "DEPRECATED_TEXT_INPUT_BORDER": ["#6e3b4f", "#c492a6"],
+    "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": ["#3a2838", "#d4c1d9"],
+    "DEPRECATED_TEXT_INPUT_BORDER_HOVER": ["#b6a2ce", "#45315e"],
+    "DEPRECATED_TEXT_INPUT_PREFIX": ["#b6a2ce", "#45315e"],
+    "ELEVATION_HIGH": ["#0c0910", "#f2eff6"],
+    "ELEVATION_LOW": ["#151119", "#e8e3ee"],
+    "ELEVATION_MEDIUM": ["#0c0910", "#f2eff6"],
+    "ELEVATION_STROKE": ["#6e3b4f22", "#c492a622"],
+    "GUILD_HEADER_TEXT_SHADOW": ["#0c0910", "#f2eff6"],
+    "INFO_DANGER_BACKGROUND": ["#6e3b4f", "#e8b4ba"],
+    "INFO_DANGER_FOREGROUND": ["#ece7f2", "#110c17"],
+    "INFO_DANGER_TEXT": ["#ece7f2", "#110c17"],
+    "INFO_HELP_BACKGROUND": ["#b6a2ce", "#45315e"],
+    "INFO_HELP_FOREGROUND": ["#0c0910", "#f2eff6"],
+    "INFO_HELP_TEXT": ["#0c0910", "#f2eff6"],
+    "INFO_POSITIVE_BACKGROUND": ["#5a8f5f", "#c5e6c8"],
+    "INFO_POSITIVE_FOREGROUND": ["#ece7f2", "#110c17"],
+    "INFO_POSITIVE_TEXT": ["#ece7f2", "#110c17"],
+    "INFO_WARNING_BACKGROUND": ["#b37670", "#90514c"],
+    "INFO_WARNING_FOREGROUND": ["#0c0910", "#f2eff6"],
+    "INFO_WARNING_TEXT": ["#0c0910", "#f2eff6"],
+    "MENTION_BACKGROUND": ["#b3767055", "#90514c55"],
+    "MENTION_FOREGROUND": ["#b37670", "#90514c"],
+    "PANEL_BG": ["#0c0910", "#f2eff6"],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#151119", "#e8e3ee"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#6e3b4f", "#c492a6"],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#6e3b4f", "#c492a6"],
+    "REDESIGN_BUTTON_SECONDARY_TEXT": ["#ece7f2", "#110c17"],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#b6a2ce", "#45315e"],
+    "REDESIGN_ONLY_BACKGROUND_DEFAULT": ["#0c0910", "#f2eff6"],
+    "REDESIGN_ONLY_BACKGROUND_OVERLAY": ["#0c0910dd", "#f2eff6dd"],
+    "STATUS_DANGER": ["#e06c75", "#d64545"],
+    "STATUS_DANGER_BACKGROUND": ["#6e3b4f", "#e8b4ba"],
+    "STATUS_DANGER_TEXT": ["#ece7f2", "#110c17"],
+    "STATUS_POSITIVE": ["#98c379", "#5a8f5f"],
+    "STATUS_POSITIVE_BACKGROUND": ["#5a8f5f", "#c5e6c8"],
+    "STATUS_POSITIVE_TEXT": ["#ece7f2", "#110c17"],
+    "STATUS_WARNING": ["#b37670", "#90514c"],
+    "STATUS_WARNING_TEXT": ["#0c0910", "#f2eff6"],
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": ["#0c0910dd", "#f2eff6dd"]
   },
   "rawColors": {
     "PRIMARY_100": "#ece7f2",
@@ -374,7 +137,6 @@
   "plus": {
     "version": 0,
     "iconPack": "rosiecord-plumpy",
-    "mentionLineColor": "#b37670",
     "customOverlays": true,
     "icons": {
       "trash": "#b37670",
