@@ -1312,11 +1312,11 @@
     "BADGE_TEXT_DEFAULT_LIGHT": "#2A1621",
     "BADGE_TEXT_DEFAULT_MIDNIGHT": "#f5d4ed"
   },
-  "plus": {
-    "version": 0,
-    "iconpack": "rosiecord-plumpy",
-    "mentionLineColor": "#e692c4",
-    "customOverlays": true,
+      "plus": {
+       "version": "0",
+       "iconpack": "solarduotone",
+       "mentionLineColor": "#e692c4",
+       "customOverlays": true,
     "icons": {
       "trash": "#ff6b9d",
       "TrashIcon": "#ff6b9d",
