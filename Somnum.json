@@ -1314,7 +1314,7 @@
   },
   "plus": {
     "version": 0,
-    "iconPack": "rosiecord-plumpy",
+    "iconpack": "rosiecord-plumpy",
     "mentionLineColor": "#e692c4",
     "customOverlays": true,
     "icons": {
