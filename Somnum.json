@@ -1312,6 +1312,10 @@
     "BADGE_TEXT_DEFAULT_LIGHT": "#2A1621",
     "BADGE_TEXT_DEFAULT_MIDNIGHT": "#f5d4ed"
   },
+      "background": {
+        "blur": 0.1,
+        "url": "https://files.catbox.moe/u6wrj4.png"
+    },
       "plus": {
        "version": "0",
        "iconpack": "solarduotone",
