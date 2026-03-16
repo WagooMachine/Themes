@@ -1,0 +1,221 @@
+{
+  "name": "Mmmmmmm",
+  "description": "green",
+  "version": "1.0.0",
+  "authors": [{ "name": "Machi"  }],
+  "spec": 2,
+  
+  "semanticColors": {
+    
+    // ══════════════════════════════════════════════════════════
+    // BACKGROUNDS
+    // ══════════════════════════════════════════════════════════
+    
+    // surface.base — Fundo principal — chat, modais, toasts
+    "BACKGROUND_BASE_LOW": ["#2e3331", "#ffffff"],
+    "CARD_BACKGROUND_DEFAULT": ["#2e3331", "#ffffff"],
+    "MODAL_BACKGROUND": ["#2e3331", "#ffffff"],
+    "MOBILE_ALERT_BACKGROUND_DEFAULT": ["#2e3331", "#ffffff"],
+    "MOBILE_TOAST_BACKGROUND_DEFAULT": ["#2e3331", "#ffffff"],
+    "BACKGROUND_PRIMARY": ["#2e3331", "#ffffff"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#2e3331", "#ffffff"],
+    
+    // surface.sunken — Sidebar, painéis, footer, inputs
+    "BACKGROUND_BASE_LOWER": ["#242827", "#eff0f0"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#242827", "#eff0f0"],
+    "MODAL_FOOTER_BACKGROUND": ["#242827", "#eff0f0"],
+    "CARD_SECONDARY_BG": ["#242827", "#eff0f0"],
+    "PANEL_BG": ["#242827", "#eff0f0"],
+    "BACKGROUND_SECONDARY": ["#242827", "#eff0f0"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#242827", "#eff0f0"],
+    
+    // surface.deep — Barra de servidores, fundo mais profundo
+    "BACKGROUND_BASE_LOWEST": ["#1a1e1c", "#e2e4e3"],
+    "INPUT_BACKGROUND_DEFAULT": ["#1a1e1c", "#e2e4e3"],
+    "BACKGROUND_SURFACE_HIGH": ["#1a1e1c", "#e2e4e3"],
+    "BACKGROUND_SURFACE_HIGHEST": ["#1a1e1c", "#e2e4e3"],
+    "BACKGROUND_SECONDARY_ALT": ["#1a1e1c", "#e2e4e3"],
+    "BACKGROUND_TERTIARY": ["#1a1e1c", "#e2e4e3"],
+    
+    // surface.raised — Cards elevados, action sheet handles
+    "BG_SURFACE_RAISED": ["#363a38", "#ffffff"],
+    "BACKGROUND_ACCENT": ["#363a38", "#ffffff"],
+    "SPINE_DEFAULT": ["#363a38", "#ffffff"],
+    
+    // ══════════════════════════════════════════════════════════
+    // TEXTO
+    // ══════════════════════════════════════════════════════════
+    
+    // text.normal — Texto principal, títulos, conteúdo
+    "TEXT_DEFAULT": ["#ebefed", "#1d2622"],
+    "TEXT_STRONG": ["#ebefed", "#1d2622"],
+    "INPUT_TEXT_DEFAULT": ["#ebefed", "#1d2622"],
+    "INTERACTIVE_TEXT_HOVER": ["#ebefed", "#1d2622"],
+    "INTERACTIVE_TEXT_ACTIVE": ["#ebefed", "#1d2622"],
+    "INTERACTIVE_ICON_HOVER": ["#ebefed", "#1d2622"],
+    "INTERACTIVE_ICON_ACTIVE": ["#ebefed", "#1d2622"],
+    
+    // text.muted — Texto secundário, ícones, placeholders
+    "TEXT_MUTED": ["#7e8b86", "#5f6d67"],
+    "TEXT_SUBTLE": ["#7e8b86", "#5f6d67"],
+    "INTERACTIVE_TEXT_DEFAULT": ["#7e8b86", "#5f6d67"],
+    "INTERACTIVE_ICON_DEFAULT": ["#7e8b86", "#5f6d67"],
+    "INPUT_PLACEHOLDER_TEXT_DEFAULT": ["#7e8b86", "#5f6d67"],
+    "CHANNELS_DEFAULT": ["#7e8b86", "#5f6d67"],
+    "CHANNEL_ICON": ["#7e8b86", "#5f6d67"],
+    "ICON_SUBTLE": ["#7e8b86", "#5f6d67"],
+    "ICON_MUTED": ["#7e8b86", "#5f6d67"],
+    
+    // text.link — Hiperlinks e indicador de foco
+    "TEXT_LINK": ["#78d9b0", "#2d9f70"],
+    "BORDER_FOCUS": ["#78d9b0", "#2d9f70"],
+    
+    // text.brand — Texto e ícones na cor brand
+    "TEXT_BRAND": ["#9ddcc2", "#309269"],
+    "CONTROL_BRAND_FOREGROUND": ["#9ddcc2", "#309269"],
+    "CONTROL_BRAND_FOREGROUND_NEW": ["#9ddcc2", "#309269"],
+    
+    // ══════════════════════════════════════════════════════════
+    // BRAND
+    // ══════════════════════════════════════════════════════════
+    
+    // brand.default — Cor primária — botões, badges, accent
+    "CONTROL_PRIMARY_BACKGROUND_DEFAULT": ["#62cb9f", "#3ab07f"],
+    "BACKGROUND_BRAND": ["#62cb9f", "#3ab07f"],
+    "BADGE_BACKGROUND_BRAND": ["#62cb9f", "#3ab07f"],
+    "LINK_ACTIVE": ["#62cb9f", "#3ab07f"],
+    
+    // brand.hover — Botão primário pressionado
+    "CONTROL_PRIMARY_BACKGROUND_ACTIVE": ["#3ebc87", "#309269"],
+    "CONTROL_PRIMARY_BACKGROUND_HOVER": ["#3ebc87", "#309269"],
+    
+    // ══════════════════════════════════════════════════════════
+    // MENÇÃO
+    // ══════════════════════════════════════════════════════════
+    
+    // mention.background — Fundo do highlight de @menção
+    "MENTION_BACKGROUND": ["#62cb9f47", "#3ab07f24"],
+    
+    // mention.foreground — Texto da @menção
+    "MENTION_FOREGROUND": ["#bfe3d4", "#2d805e"],
+    
+    // ══════════════════════════════════════════════════════════
+    // STATUS
+    // ══════════════════════════════════════════════════════════
+    
+    // status.online — Online / sucesso / positivo
+    "STATUS_ONLINE": ["#76bb40", "#38571a"],
+    "STATUS_POSITIVE": ["#76bb40", "#38571a"],
+    "ICON_STATUS_ONLINE": ["#76bb40", "#38571a"],
+    "TEXT_STATUS_ONLINE": ["#76bb40", "#38571a"],
+    "TEXT_FEEDBACK_POSITIVE": ["#76bb40", "#38571a"],
+    "ICON_FEEDBACK_POSITIVE": ["#76bb40", "#38571a"],
+    
+    // status.idle — Ausente / aviso / warning
+    "STATUS_WARNING": ["#f5ec00", "#c4bc00"],
+    "ICON_STATUS_IDLE": ["#f5ec00", "#c4bc00"],
+    "TEXT_STATUS_IDLE": ["#f5ec00", "#c4bc00"],
+    "TEXT_FEEDBACK_WARNING": ["#f5ec00", "#c4bc00"],
+    "ICON_FEEDBACK_WARNING": ["#f5ec00", "#c4bc00"],
+    
+    // status.dnd — Não perturbe / erro / destrutivo
+    "STATUS_DANGER": ["#ff4015", "#831100"],
+    "ICON_STATUS_DND": ["#ff4015", "#831100"],
+    "TEXT_STATUS_DND": ["#ff4015", "#831100"],
+    "BACKGROUND_FEEDBACK_CRITICAL": ["#ff4015", "#831100"],
+    "BADGE_NOTIFICATION_BACKGROUND": ["#ff4015", "#831100"],
+    "CONTROL_CRITICAL_PRIMARY_BACKGROUND_DEFAULT": ["#ff4015", "#831100"],
+    
+    // status.offline — Offline / inativo
+    "ICON_STATUS_OFFLINE": ["#80848e", "#c4c9ce"],
+    "TEXT_STATUS_OFFLINE": ["#80848e", "#c4c9ce"],
+    
+    // ══════════════════════════════════════════════════════════
+    // BORDAS
+    // ══════════════════════════════════════════════════════════
+    
+    // border.subtle — Divisores sutis e transparentes
+    "BORDER_SUBTLE": ["#b1dd8bc8", "#00000012"],
+    "BORDER_MUTED": ["#b1dd8bc8", "#00000012"],
+    "CONTROL_SECONDARY_BORDER_DEFAULT": ["#b1dd8bc8", "#00000012"],
+    
+    // border.strong — Bordas visíveis, inputs
+    "BORDER_STRONG": ["#b1dd8b00", "#00000026"],
+    "CONTROL_SECONDARY_BORDER_ACTIVE": ["#b1dd8b00", "#00000026"],
+    "INPUT_BORDER_DEFAULT": ["#b1dd8b00", "#00000026"]
+    
+  },
+  
+  "rawColors": {
+    
+    // ══════════════════════════════════════════════════════════
+    // BACKGROUNDS — RAW
+    // ══════════════════════════════════════════════════════════
+    
+    // surface.base
+    "PRIMARY_600": "#2e3331",
+    
+    // surface.sunken
+    "PRIMARY_630": "#242827",
+    
+    // surface.deep
+    "PRIMARY_700": "#1a1e1c",
+    
+    // surface.raised
+    "PRIMARY_660": "#363a38",
+    
+    // ══════════════════════════════════════════════════════════
+    // TEXTO — RAW
+    // ══════════════════════════════════════════════════════════
+    
+    // text.normal
+    "PRIMARY_100": "#ebefed",
+    
+    // text.muted
+    "PRIMARY_400": "#7e8b86",
+    
+    // ══════════════════════════════════════════════════════════
+    // BRAND — RAW
+    // ══════════════════════════════════════════════════════════
+    
+    // brand.default
+    "BRAND_500": "#62cb9f",
+    "BRAND_360": "#62cb9f",
+    
+    // brand.hover
+    "BRAND_560": "#3ebc87",
+    
+    // ══════════════════════════════════════════════════════════
+    // STATUS — RAW
+    // ══════════════════════════════════════════════════════════
+    
+    // status.online
+    "GREEN_500": "#76bb40",
+    
+    // status.idle
+    "YELLOW_500": "#f5ec00",
+    
+    // status.dnd
+    "RED_500": "#ff4015"
+    
+  },
+  
+  "plus": {
+    
+    // ══════════════════════════════════════════════════════════
+    // RAIN THEMES+ — CONFIGURAÇÕES EXTRAS
+    // ══════════════════════════════════════════════════════════
+    
+    "customOverlays": true,
+    "version": 0,
+    
+    // Cor do badge de mensagens não lidas
+    "unreadBadgeColor": {"both":"#f23f43"},
+    
+    // Linha colorida ao lado de mensagens onde você foi mencionado
+    "mentionLineColor": {"both":"#5865f2"},
+    
+    "icons": {}
+    
+  }
+}
