@@ -9,256 +9,256 @@
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_BASE_LOW": [
-      "#ad85ad",
-      "#7a527a"
+      "#030203",
+      "#030203"
     ],
     "CARD_BACKGROUND_DEFAULT": [
-      "#ad85ad",
-      "#7a527a"
+      "#030203",
+      "#030203"
     ],
     "MODAL_BACKGROUND": [
-      "#ad85ad",
-      "#7a527a"
+      "#030203",
+      "#030203"
     ],
     "MOBILE_ALERT_BACKGROUND_DEFAULT": [
-      "#ad85ad",
-      "#7a527a"
+      "#030203",
+      "#030203"
     ],
     "MOBILE_TOAST_BACKGROUND_DEFAULT": [
-      "#ad85ad",
-      "#7a527a"
+      "#030203",
+      "#030203"
     ],
     "BACKGROUND_PRIMARY": [
-      "#ad85ad",
-      "#7a527a"
+      "#030203",
+      "#030203"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#ad85ad",
-      "#7a527a"
+      "#030203",
+      "#030203"
     ],
     "BACKGROUND_BASE_LOWER": [
-      "#937193",
-      "#734d73"
+      "#030203",
+      "#030203"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#937193",
-      "#734d73"
+      "#030203",
+      "#030203"
     ],
     "MODAL_FOOTER_BACKGROUND": [
-      "#937193",
-      "#734d73"
+      "#030203",
+      "#030203"
     ],
     "CARD_SECONDARY_BG": [
-      "#937193",
-      "#734d73"
+      "#030203",
+      "#030203"
     ],
     "PANEL_BG": [
-      "#937193",
-      "#734d73"
+      "#030203",
+      "#030203"
     ],
     "BACKGROUND_SECONDARY": [
-      "#937193",
-      "#734d73"
+      "#030203",
+      "#030203"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#937193",
-      "#734d73"
+      "#030203",
+      "#030203"
     ],
     "BACKGROUND_BASE_LOWEST": [
-      "#795d79",
-      "#6b486b"
+      "#020102",
+      "#030203"
     ],
     "INPUT_BACKGROUND_DEFAULT": [
-      "#795d79",
-      "#6b486b"
+      "#020102",
+      "#030203"
     ],
     "BACKGROUND_SURFACE_HIGH": [
-      "#795d79",
-      "#6b486b"
+      "#020102",
+      "#030203"
     ],
     "BACKGROUND_SURFACE_HIGHEST": [
-      "#795d79",
-      "#6b486b"
+      "#020102",
+      "#030203"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#795d79",
-      "#6b486b"
+      "#020102",
+      "#030203"
     ],
     "BACKGROUND_TERTIARY": [
-      "#795d79",
-      "#6b486b"
+      "#020102",
+      "#030203"
     ],
     "BG_SURFACE_RAISED": [
-      "#b48fb4",
+      "#171617",
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
-      "#b48fb4",
+      "#171617",
       "#ffffff"
     ],
     "SPINE_DEFAULT": [
-      "#b48fb4",
+      "#171617",
       "#ffffff"
     ],
     "TEXT_DEFAULT": [
-      "#ebe0e6",
-      "#1f141a"
+      "#fbf9fa",
+      "#fbf9fa"
     ],
     "TEXT_STRONG": [
-      "#ebe0e6",
-      "#1f141a"
+      "#fbf9fa",
+      "#fbf9fa"
     ],
     "INPUT_TEXT_DEFAULT": [
-      "#ebe0e6",
-      "#1f141a"
+      "#fbf9fa",
+      "#fbf9fa"
     ],
     "INTERACTIVE_TEXT_HOVER": [
-      "#ebe0e6",
-      "#1f141a"
+      "#fbf9fa",
+      "#fbf9fa"
     ],
     "INTERACTIVE_TEXT_ACTIVE": [
-      "#ebe0e6",
-      "#1f141a"
+      "#fbf9fa",
+      "#fbf9fa"
     ],
     "INTERACTIVE_ICON_HOVER": [
-      "#ebe0e6",
-      "#1f141a"
+      "#fbf9fa",
+      "#fbf9fa"
     ],
     "INTERACTIVE_ICON_ACTIVE": [
-      "#ebe0e6",
-      "#1f141a"
+      "#fbf9fa",
+      "#fbf9fa"
     ],
     "TEXT_MUTED": [
-      "#cfb7cc",
-      "#432d40"
+      "#8b8a8b",
+      "#989697"
     ],
     "TEXT_SUBTLE": [
-      "#cfb7cc",
-      "#432d40"
+      "#8b8a8b",
+      "#989697"
     ],
     "INTERACTIVE_TEXT_DEFAULT": [
-      "#cfb7cc",
-      "#432d40"
+      "#8b8a8b",
+      "#989697"
     ],
     "INTERACTIVE_ICON_DEFAULT": [
-      "#cfb7cc",
-      "#432d40"
+      "#8b8a8b",
+      "#989697"
     ],
     "INPUT_PLACEHOLDER_TEXT_DEFAULT": [
-      "#cfb7cc",
-      "#432d40"
+      "#8b8a8b",
+      "#989697"
     ],
     "CHANNELS_DEFAULT": [
-      "#cfb7cc",
-      "#432d40"
+      "#8b8a8b",
+      "#989697"
     ],
     "CHANNEL_ICON": [
-      "#cfb7cc",
-      "#432d40"
+      "#8b8a8b",
+      "#989697"
     ],
     "ICON_SUBTLE": [
-      "#cfb7cc",
-      "#432d40"
+      "#8b8a8b",
+      "#989697"
     ],
     "ICON_MUTED": [
-      "#cfb7cc",
-      "#432d40"
+      "#8b8a8b",
+      "#989697"
     ],
     "TEXT_LINK": [
-      "#b181a3",
-      "#9e618c"
+      "#af7fa1",
+      "#9b5f89"
     ],
     "BORDER_FOCUS": [
-      "#b181a3",
-      "#9e618c"
+      "#af7fa1",
+      "#9b5f89"
     ],
     "TEXT_BRAND": [
-      "#bb90af",
-      "#9e618c"
+      "#b98fac",
+      "#9b5f89"
     ],
     "CONTROL_BRAND_FOREGROUND": [
-      "#bb90af",
-      "#9e618c"
+      "#b98fac",
+      "#9b5f89"
     ],
     "CONTROL_BRAND_FOREGROUND_NEW": [
-      "#bb90af",
-      "#9e618c"
+      "#b98fac",
+      "#9b5f89"
     ],
     "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
-      "#9e618c",
-      "#9e618c"
+      "#9b5f89",
+      "#9b5f89"
     ],
     "BACKGROUND_BRAND": [
-      "#9e618c",
-      "#9e618c"
+      "#9b5f89",
+      "#9b5f89"
     ],
     "BADGE_BACKGROUND_BRAND": [
-      "#9e618c",
-      "#9e618c"
+      "#9b5f89",
+      "#9b5f89"
     ],
     "LINK_ACTIVE": [
-      "#9e618c",
-      "#9e618c"
+      "#9b5f89",
+      "#9b5f89"
     ],
     "CONTROL_PRIMARY_BACKGROUND_ACTIVE": [
-      "#825073",
-      "#825073"
+      "#7f4e70",
+      "#7f4e70"
     ],
     "CONTROL_PRIMARY_BACKGROUND_HOVER": [
-      "#825073",
-      "#825073"
+      "#7f4e70",
+      "#7f4e70"
     ],
     "MENTION_BACKGROUND": [
-      "#9e618c47",
-      "#9e618c24"
+      "#9b5f8947",
+      "#9b5f8924"
     ],
     "MENTION_FOREGROUND": [
-      "#c5a0ba",
-      "#7e4e70"
+      "#c39fb8",
+      "#7c4c6e"
     ],
     "STATUS_ONLINE": [
-      "#9f6060",
-      "#9f6060"
+      "#603939",
+      "#603939"
     ],
     "STATUS_POSITIVE": [
-      "#9f6060",
-      "#9f6060"
+      "#603939",
+      "#603939"
     ],
     "ICON_STATUS_ONLINE": [
-      "#9f6060",
-      "#9f6060"
+      "#603939",
+      "#603939"
     ],
     "TEXT_STATUS_ONLINE": [
-      "#9f6060",
-      "#9f6060"
+      "#603939",
+      "#603939"
     ],
     "TEXT_FEEDBACK_POSITIVE": [
-      "#9f6060",
-      "#9f6060"
+      "#603939",
+      "#603939"
     ],
     "ICON_FEEDBACK_POSITIVE": [
-      "#9f6060",
-      "#9f6060"
+      "#603939",
+      "#603939"
     ],
     "STATUS_WARNING": [
-      "#9e6f61",
-      "#9e6f61"
+      "#7b574c",
+      "#7b574c"
     ],
     "ICON_STATUS_IDLE": [
-      "#9e6f61",
-      "#9e6f61"
+      "#7b574c",
+      "#7b574c"
     ],
     "TEXT_STATUS_IDLE": [
-      "#9e6f61",
-      "#9e6f61"
+      "#7b574c",
+      "#7b574c"
     ],
     "TEXT_FEEDBACK_WARNING": [
-      "#9e6f61",
-      "#9e6f61"
+      "#7b574c",
+      "#7b574c"
     ],
     "ICON_FEEDBACK_WARNING": [
-      "#9e6f61",
-      "#9e6f61"
+      "#7b574c",
+      "#7b574c"
     ],
     "STATUS_DANGER": [
       "#f23f43",
@@ -336,12 +336,12 @@
       "StatusOffline": "#6b4d6b",
       "StatusOnline": "#a692d4"
     },
-    "iconpack": "solarduostone",
+    "iconpack": "solarduotone",
     "unreadBadgeColor": {
-      "both": "#9e618c"
+      "both": "#9b5f89"
     },
     "mentionLineColor": {
-      "both": "#9e618c"
+      "both": "#9b5f89"
     }
   }
 }
