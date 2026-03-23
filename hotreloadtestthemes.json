@@ -11,31 +11,31 @@
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_BASE_LOW": [
-      "#3d323b",
+      "#241824",
       "#F5E4ED"
     ],
     "CARD_BACKGROUND_DEFAULT": [
-      "#3d323b",
+      "#241824",
       "#F5E4ED"
     ],
     "MODAL_BACKGROUND": [
-      "#3d323b",
+      "#241824",
       "#F5E4ED"
     ],
     "MOBILE_ALERT_BACKGROUND_DEFAULT": [
-      "#3d323b",
+      "#241824",
       "#F5E4ED"
     ],
     "MOBILE_TOAST_BACKGROUND_DEFAULT": [
-      "#3d323b",
+      "#241824",
       "#F5E4ED"
     ],
     "BACKGROUND_PRIMARY": [
-      "#3d323b",
+      "#241824",
       "#F5E4ED"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#3d323b",
+      "#241824",
       "#F5E4ED"
     ],
     "BACKGROUND_BASE_LOWER": [
@@ -295,27 +295,27 @@
       "#8B6B7F"
     ],
     "BORDER_SUBTLE": [
-      "#f9d3e0a0",
+      "#f9d3e014",
       "#0000001a"
     ],
     "BORDER_MUTED": [
-      "#f9d3e0a0",
+      "#f9d3e014",
       "#0000001a"
     ],
     "CONTROL_SECONDARY_BORDER_DEFAULT": [
-      "#f9d3e0a0",
+      "#f9d3e014",
       "#0000001a"
     ],
     "BORDER_STRONG": [
-      "#f9d3e0e1",
+      "#f9d3e029",
       "#00000033"
     ],
     "CONTROL_SECONDARY_BORDER_ACTIVE": [
-      "#f9d3e0e1",
+      "#f9d3e029",
       "#00000033"
     ],
     "INPUT_BORDER_DEFAULT": [
-      "#f9d3e0e1",
+      "#f9d3e029",
       "#00000033"
     ]
   },
